@@ -1,0 +1,39 @@
+D:\Odisee1516\Csharp\E-sport Ranking\LogicImplementation\bin\Debug\LogicImplementation.dll
+D:\Odisee1516\Csharp\E-sport Ranking\LogicImplementation\bin\Debug\LogicImplementation.pdb
+D:\Odisee1516\Csharp\E-sport Ranking\LogicImplementation\obj\Debug\LogicImplementation.dll
+D:\Odisee1516\Csharp\E-sport Ranking\LogicImplementation\obj\Debug\LogicImplementation.pdb
+D:\Odisee1516\Csharp\E-sport Ranking\LogicImplementation\bin\Debug\DataAccessImplementation.dll
+D:\Odisee1516\Csharp\E-sport Ranking\LogicImplementation\bin\Debug\DataAccessInterfaces.dll
+D:\Odisee1516\Csharp\E-sport Ranking\LogicImplementation\bin\Debug\DataEntities.dll
+D:\Odisee1516\Csharp\E-sport Ranking\LogicImplementation\bin\Debug\LogicInterfaces.dll
+D:\Odisee1516\Csharp\E-sport Ranking\LogicImplementation\bin\Debug\DataAccessImplementation.pdb
+D:\Odisee1516\Csharp\E-sport Ranking\LogicImplementation\bin\Debug\DataAccessInterfaces.pdb
+D:\Odisee1516\Csharp\E-sport Ranking\LogicImplementation\bin\Debug\DataEntities.pdb
+D:\Odisee1516\Csharp\E-sport Ranking\LogicImplementation\bin\Debug\LogicInterfaces.pdb
+D:\Odisee1516\Csharp\E-sport Ranking\LogicImplementation\obj\Debug\LogicImplementation.csprojResolveAssemblyReference.cache
+D:\Odisee1516\Csharp\Opgave04\LogicImplementation\bin\Debug\LogicImplementation.dll
+D:\Odisee1516\Csharp\Opgave04\LogicImplementation\bin\Debug\LogicImplementation.pdb
+D:\Odisee1516\Csharp\Opgave04\LogicImplementation\bin\Debug\DataAccessImplementation.dll
+D:\Odisee1516\Csharp\Opgave04\LogicImplementation\bin\Debug\DataAccessInterfaces.dll
+D:\Odisee1516\Csharp\Opgave04\LogicImplementation\bin\Debug\DataEntities.dll
+D:\Odisee1516\Csharp\Opgave04\LogicImplementation\bin\Debug\LogicInterfaces.dll
+D:\Odisee1516\Csharp\Opgave04\LogicImplementation\bin\Debug\DataAccessImplementation.pdb
+D:\Odisee1516\Csharp\Opgave04\LogicImplementation\bin\Debug\DataAccessInterfaces.pdb
+D:\Odisee1516\Csharp\Opgave04\LogicImplementation\bin\Debug\DataEntities.pdb
+D:\Odisee1516\Csharp\Opgave04\LogicImplementation\bin\Debug\LogicInterfaces.pdb
+D:\Odisee1516\Csharp\Opgave04\LogicImplementation\obj\Debug\LogicImplementation.csprojResolveAssemblyReference.cache
+D:\Odisee1516\Csharp\Opgave04\LogicImplementation\obj\Debug\LogicImplementation.dll
+D:\Odisee1516\Csharp\Opgave04\LogicImplementation\obj\Debug\LogicImplementation.pdb
+C:\Users\Anthony\Desktop\Opgave04\LogicImplementation\bin\Debug\LogicImplementation.dll
+C:\Users\Anthony\Desktop\Opgave04\LogicImplementation\bin\Debug\LogicImplementation.pdb
+C:\Users\Anthony\Desktop\Opgave04\LogicImplementation\bin\Debug\DataAccessImplementation.dll
+C:\Users\Anthony\Desktop\Opgave04\LogicImplementation\bin\Debug\DataAccessInterfaces.dll
+C:\Users\Anthony\Desktop\Opgave04\LogicImplementation\bin\Debug\DataEntities.dll
+C:\Users\Anthony\Desktop\Opgave04\LogicImplementation\bin\Debug\LogicInterfaces.dll
+C:\Users\Anthony\Desktop\Opgave04\LogicImplementation\bin\Debug\DataAccessImplementation.pdb
+C:\Users\Anthony\Desktop\Opgave04\LogicImplementation\bin\Debug\DataAccessInterfaces.pdb
+C:\Users\Anthony\Desktop\Opgave04\LogicImplementation\bin\Debug\DataEntities.pdb
+C:\Users\Anthony\Desktop\Opgave04\LogicImplementation\bin\Debug\LogicInterfaces.pdb
+C:\Users\Anthony\Desktop\Opgave04\LogicImplementation\obj\Debug\LogicImplementation.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\Opgave04\LogicImplementation\obj\Debug\LogicImplementation.dll
+C:\Users\Anthony\Desktop\Opgave04\LogicImplementation\obj\Debug\LogicImplementation.pdb

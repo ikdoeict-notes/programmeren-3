@@ -1,0 +1,18 @@
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\BackendInterface\bin\Debug\BackendInterface.dll
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\BackendInterface\bin\Debug\BackendInterface.pdb
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\BackendInterface\bin\Debug\GlobalTools.dll
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\BackendInterface\bin\Debug\Logic.dll
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\BackendInterface\bin\Debug\GlobalTools.pdb
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\BackendInterface\bin\Debug\Logic.pdb
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\BackendInterface\obj\Debug\BackendInterface.csprojResolveAssemblyReference.cache
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\BackendInterface\obj\Debug\BackendInterface.dll
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\BackendInterface\obj\Debug\BackendInterface.pdb
+D:\Odisee1516\Csharp\Opgave06\BackendInterface\bin\Debug\BackendInterface.dll
+D:\Odisee1516\Csharp\Opgave06\BackendInterface\bin\Debug\BackendInterface.pdb
+D:\Odisee1516\Csharp\Opgave06\BackendInterface\bin\Debug\GlobalTools.dll
+D:\Odisee1516\Csharp\Opgave06\BackendInterface\bin\Debug\Logic.dll
+D:\Odisee1516\Csharp\Opgave06\BackendInterface\bin\Debug\GlobalTools.pdb
+D:\Odisee1516\Csharp\Opgave06\BackendInterface\bin\Debug\Logic.pdb
+D:\Odisee1516\Csharp\Opgave06\BackendInterface\obj\Debug\BackendInterface.csprojResolveAssemblyReference.cache
+D:\Odisee1516\Csharp\Opgave06\BackendInterface\obj\Debug\BackendInterface.dll
+D:\Odisee1516\Csharp\Opgave06\BackendInterface\obj\Debug\BackendInterface.pdb

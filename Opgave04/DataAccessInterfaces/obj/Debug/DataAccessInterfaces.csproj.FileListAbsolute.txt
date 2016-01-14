@@ -1,0 +1,21 @@
+D:\Odisee1516\Csharp\E-sport Ranking\DataAccessInterfaces\bin\Debug\DataAccessInterfaces.dll
+D:\Odisee1516\Csharp\E-sport Ranking\DataAccessInterfaces\bin\Debug\DataAccessInterfaces.pdb
+D:\Odisee1516\Csharp\E-sport Ranking\DataAccessInterfaces\obj\Debug\DataAccessInterfaces.dll
+D:\Odisee1516\Csharp\E-sport Ranking\DataAccessInterfaces\obj\Debug\DataAccessInterfaces.pdb
+D:\Odisee1516\Csharp\E-sport Ranking\DataAccessInterfaces\bin\Debug\DataEntities.dll
+D:\Odisee1516\Csharp\E-sport Ranking\DataAccessInterfaces\bin\Debug\DataEntities.pdb
+D:\Odisee1516\Csharp\E-sport Ranking\DataAccessInterfaces\obj\Debug\DataAccessInterfaces.csprojResolveAssemblyReference.cache
+D:\Odisee1516\Csharp\Opgave04\DataAccessInterfaces\bin\Debug\DataAccessInterfaces.dll
+D:\Odisee1516\Csharp\Opgave04\DataAccessInterfaces\bin\Debug\DataAccessInterfaces.pdb
+D:\Odisee1516\Csharp\Opgave04\DataAccessInterfaces\bin\Debug\DataEntities.dll
+D:\Odisee1516\Csharp\Opgave04\DataAccessInterfaces\bin\Debug\DataEntities.pdb
+D:\Odisee1516\Csharp\Opgave04\DataAccessInterfaces\obj\Debug\DataAccessInterfaces.csprojResolveAssemblyReference.cache
+D:\Odisee1516\Csharp\Opgave04\DataAccessInterfaces\obj\Debug\DataAccessInterfaces.dll
+D:\Odisee1516\Csharp\Opgave04\DataAccessInterfaces\obj\Debug\DataAccessInterfaces.pdb
+C:\Users\Anthony\Desktop\Opgave04\DataAccessInterfaces\bin\Debug\DataAccessInterfaces.dll
+C:\Users\Anthony\Desktop\Opgave04\DataAccessInterfaces\bin\Debug\DataAccessInterfaces.pdb
+C:\Users\Anthony\Desktop\Opgave04\DataAccessInterfaces\bin\Debug\DataEntities.dll
+C:\Users\Anthony\Desktop\Opgave04\DataAccessInterfaces\bin\Debug\DataEntities.pdb
+C:\Users\Anthony\Desktop\Opgave04\DataAccessInterfaces\obj\Debug\DataAccessInterfaces.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\Opgave04\DataAccessInterfaces\obj\Debug\DataAccessInterfaces.dll
+C:\Users\Anthony\Desktop\Opgave04\DataAccessInterfaces\obj\Debug\DataAccessInterfaces.pdb

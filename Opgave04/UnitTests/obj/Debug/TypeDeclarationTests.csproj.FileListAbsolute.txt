@@ -1,0 +1,5 @@
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\obj\Debug\GameRankingTests.dll
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\obj\Debug\GameRankingTests.pdb
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\bin\Debug\GameRankingTests.dll
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\bin\Debug\GameRankingTests.pdb
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\obj\Debug\TypeDeclarationTests.csprojResolveAssemblyReference.cache

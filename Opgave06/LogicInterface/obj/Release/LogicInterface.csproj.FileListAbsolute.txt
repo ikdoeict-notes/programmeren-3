@@ -1,0 +1,7 @@
+D:\Odisee1516\Csharp\Opgave06\LogicInterface\bin\Release\Logic.dll
+D:\Odisee1516\Csharp\Opgave06\LogicInterface\bin\Release\Logic.pdb
+D:\Odisee1516\Csharp\Opgave06\LogicInterface\bin\Release\GlobalTools.dll
+D:\Odisee1516\Csharp\Opgave06\LogicInterface\bin\Release\GlobalTools.pdb
+D:\Odisee1516\Csharp\Opgave06\LogicInterface\obj\Release\LogicInterface.csprojResolveAssemblyReference.cache
+D:\Odisee1516\Csharp\Opgave06\LogicInterface\obj\Release\Logic.dll
+D:\Odisee1516\Csharp\Opgave06\LogicInterface\obj\Release\Logic.pdb

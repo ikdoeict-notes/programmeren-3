@@ -1,0 +1,13 @@
+D:\Odisee1516\Csharp\Opgave06\LogicImplementation\bin\Debug\LogicImplementation.dll
+D:\Odisee1516\Csharp\Opgave06\LogicImplementation\bin\Debug\LogicImplementation.pdb
+D:\Odisee1516\Csharp\Opgave06\LogicImplementation\bin\Debug\BackendImplementation.dll
+D:\Odisee1516\Csharp\Opgave06\LogicImplementation\bin\Debug\BackendInterface.dll
+D:\Odisee1516\Csharp\Opgave06\LogicImplementation\bin\Debug\GlobalTools.dll
+D:\Odisee1516\Csharp\Opgave06\LogicImplementation\bin\Debug\Logic.dll
+D:\Odisee1516\Csharp\Opgave06\LogicImplementation\bin\Debug\BackendImplementation.pdb
+D:\Odisee1516\Csharp\Opgave06\LogicImplementation\bin\Debug\BackendInterface.pdb
+D:\Odisee1516\Csharp\Opgave06\LogicImplementation\bin\Debug\GlobalTools.pdb
+D:\Odisee1516\Csharp\Opgave06\LogicImplementation\bin\Debug\Logic.pdb
+D:\Odisee1516\Csharp\Opgave06\LogicImplementation\obj\Debug\LogicImplementation.csprojResolveAssemblyReference.cache
+D:\Odisee1516\Csharp\Opgave06\LogicImplementation\obj\Debug\LogicImplementation.dll
+D:\Odisee1516\Csharp\Opgave06\LogicImplementation\obj\Debug\LogicImplementation.pdb

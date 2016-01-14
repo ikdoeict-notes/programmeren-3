@@ -1,0 +1,4 @@
+D:\Odisee1516\Csharp\Opgave06\GlobalTools\bin\Release\GlobalTools.dll
+D:\Odisee1516\Csharp\Opgave06\GlobalTools\bin\Release\GlobalTools.pdb
+D:\Odisee1516\Csharp\Opgave06\GlobalTools\obj\Release\GlobalTools.dll
+D:\Odisee1516\Csharp\Opgave06\GlobalTools\obj\Release\GlobalTools.pdb

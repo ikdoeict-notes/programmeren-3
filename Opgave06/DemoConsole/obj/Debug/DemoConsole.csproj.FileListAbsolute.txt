@@ -1,0 +1,20 @@
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\DemoConsole\bin\Debug\DemoConsole.exe.config
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\DemoConsole\bin\Debug\DemoConsole.exe
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\DemoConsole\bin\Debug\DemoConsole.pdb
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\DemoConsole\bin\Debug\BackendInterface.dll
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\DemoConsole\bin\Debug\GlobalTools.dll
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\DemoConsole\bin\Debug\BackendInterface.pdb
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\DemoConsole\bin\Debug\GlobalTools.pdb
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\DemoConsole\obj\Debug\DemoConsole.csprojResolveAssemblyReference.cache
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\DemoConsole\obj\Debug\DemoConsole.exe
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\DemoConsole\obj\Debug\DemoConsole.pdb
+D:\Odisee1516\Csharp\Opgave06\DemoConsole\bin\Debug\DemoConsole.exe.config
+D:\Odisee1516\Csharp\Opgave06\DemoConsole\bin\Debug\DemoConsole.exe
+D:\Odisee1516\Csharp\Opgave06\DemoConsole\bin\Debug\DemoConsole.pdb
+D:\Odisee1516\Csharp\Opgave06\DemoConsole\bin\Debug\BackendInterface.dll
+D:\Odisee1516\Csharp\Opgave06\DemoConsole\bin\Debug\GlobalTools.dll
+D:\Odisee1516\Csharp\Opgave06\DemoConsole\bin\Debug\BackendInterface.pdb
+D:\Odisee1516\Csharp\Opgave06\DemoConsole\bin\Debug\GlobalTools.pdb
+D:\Odisee1516\Csharp\Opgave06\DemoConsole\obj\Debug\DemoConsole.csprojResolveAssemblyReference.cache
+D:\Odisee1516\Csharp\Opgave06\DemoConsole\obj\Debug\DemoConsole.exe
+D:\Odisee1516\Csharp\Opgave06\DemoConsole\obj\Debug\DemoConsole.pdb

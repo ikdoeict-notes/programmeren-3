@@ -1,0 +1,32 @@
+D:\Odisee1516\Csharp\E-sport Ranking\GameRankingUI\bin\Debug\GameRankingUI.exe.config
+D:\Odisee1516\Csharp\E-sport Ranking\GameRankingUI\bin\Debug\GameRankingUI.exe
+D:\Odisee1516\Csharp\E-sport Ranking\GameRankingUI\bin\Debug\GameRankingUI.pdb
+D:\Odisee1516\Csharp\E-sport Ranking\GameRankingUI\obj\Debug\GameRankingUI.csprojResolveAssemblyReference.cache
+D:\Odisee1516\Csharp\E-sport Ranking\GameRankingUI\obj\Debug\GameRankingUI.Properties.Resources.resources
+D:\Odisee1516\Csharp\E-sport Ranking\GameRankingUI\obj\Debug\GameRankingUI.csproj.GenerateResource.Cache
+D:\Odisee1516\Csharp\E-sport Ranking\GameRankingUI\obj\Debug\GameRankingUI.exe
+D:\Odisee1516\Csharp\E-sport Ranking\GameRankingUI\obj\Debug\GameRankingUI.pdb
+D:\Odisee1516\Csharp\E-sport Ranking\GameRankingUI\bin\Debug\DataEntities.dll
+D:\Odisee1516\Csharp\E-sport Ranking\GameRankingUI\bin\Debug\LogicImplementation.dll
+D:\Odisee1516\Csharp\E-sport Ranking\GameRankingUI\bin\Debug\LogicInterfaces.dll
+D:\Odisee1516\Csharp\E-sport Ranking\GameRankingUI\bin\Debug\DataEntities.pdb
+D:\Odisee1516\Csharp\E-sport Ranking\GameRankingUI\bin\Debug\LogicImplementation.pdb
+D:\Odisee1516\Csharp\E-sport Ranking\GameRankingUI\bin\Debug\LogicInterfaces.pdb
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\bin\Debug\GameRankingUI.exe.config
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\bin\Debug\GameRankingUI.exe
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\bin\Debug\GameRankingUI.pdb
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\bin\Debug\DataEntities.dll
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\bin\Debug\LogicImplementation.dll
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\bin\Debug\LogicInterfaces.dll
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\bin\Debug\DataAccessInterfaces.dll
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\bin\Debug\DataAccessImplementation.dll
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\bin\Debug\DataEntities.pdb
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\bin\Debug\LogicImplementation.pdb
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\bin\Debug\LogicInterfaces.pdb
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\bin\Debug\DataAccessInterfaces.pdb
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\bin\Debug\DataAccessImplementation.pdb
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\obj\Debug\GameRankingUI.csprojResolveAssemblyReference.cache
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\obj\Debug\GameRankingUI.Properties.Resources.resources
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\obj\Debug\GameRankingUI.csproj.GenerateResource.Cache
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\obj\Debug\GameRankingUI.exe
+D:\Odisee1516\Csharp\Opgave04\GameRankingUI\obj\Debug\GameRankingUI.pdb

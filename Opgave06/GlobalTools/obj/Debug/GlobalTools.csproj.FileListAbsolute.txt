@@ -1,0 +1,9 @@
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\GlobalTools\bin\Debug\GlobalTools.dll
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\GlobalTools\bin\Debug\GlobalTools.pdb
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\GlobalTools\obj\Debug\GlobalTools.dll
+C:\Users\johan.donne\Documents\Visual Studio 2015\Projects\CSharpOO1516\Opgave06\GlobalTools\obj\Debug\GlobalTools.pdb
+D:\Odisee1516\Csharp\Opgave06\GlobalTools\bin\Debug\GlobalTools.dll
+D:\Odisee1516\Csharp\Opgave06\GlobalTools\bin\Debug\GlobalTools.pdb
+D:\Odisee1516\Csharp\Opgave06\GlobalTools\obj\Debug\GlobalTools.dll
+D:\Odisee1516\Csharp\Opgave06\GlobalTools\obj\Debug\GlobalTools.pdb
+D:\Odisee1516\Csharp\Opgave06\GlobalTools\obj\Debug\GlobalTools.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+D:\Odisee1516\Csharp\Opgave06\BackendImplementation\bin\Release\BackendImplementation.dll
+D:\Odisee1516\Csharp\Opgave06\BackendImplementation\bin\Release\BackendImplementation.pdb
+D:\Odisee1516\Csharp\Opgave06\BackendImplementation\bin\Release\BackendInterface.dll
+D:\Odisee1516\Csharp\Opgave06\BackendImplementation\bin\Release\GlobalTools.dll
+D:\Odisee1516\Csharp\Opgave06\BackendImplementation\bin\Release\BackendInterface.pdb
+D:\Odisee1516\Csharp\Opgave06\BackendImplementation\bin\Release\GlobalTools.pdb
+D:\Odisee1516\Csharp\Opgave06\BackendImplementation\obj\Release\BackendImplementation.csprojResolveAssemblyReference.cache
+D:\Odisee1516\Csharp\Opgave06\BackendImplementation\obj\Release\BackendImplementation.dll
+D:\Odisee1516\Csharp\Opgave06\BackendImplementation\obj\Release\BackendImplementation.pdb

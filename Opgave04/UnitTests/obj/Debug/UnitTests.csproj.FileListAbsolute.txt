@@ -1,0 +1,49 @@
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\bin\Debug\GameRankingTests.dll
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\bin\Debug\GameRankingTests.pdb
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\bin\Debug\DataAccessImplementation.dll
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\bin\Debug\DataAccessInterfaces.dll
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\bin\Debug\DataEntities.dll
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\bin\Debug\LogicImplementation.dll
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\bin\Debug\LogicInterfaces.dll
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\bin\Debug\DataAccessImplementation.pdb
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\bin\Debug\DataAccessInterfaces.pdb
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\bin\Debug\DataEntities.pdb
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\bin\Debug\LogicImplementation.pdb
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\bin\Debug\LogicInterfaces.pdb
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\obj\Debug\GameRankingTests.dll
+D:\Gebruikers\Johan\Mijn Documenten\CSharpOOtest\Opgave04 Solution\GameRankingTests\obj\Debug\GameRankingTests.pdb
+D:\Odisee1516\Csharp\Opgave04\UnitTests\bin\Debug\GameRankingTests.dll
+D:\Odisee1516\Csharp\Opgave04\UnitTests\bin\Debug\GameRankingTests.pdb
+D:\Odisee1516\Csharp\Opgave04\UnitTests\bin\Debug\ConsoleUI.exe
+D:\Odisee1516\Csharp\Opgave04\UnitTests\bin\Debug\DataAccessImplementation.dll
+D:\Odisee1516\Csharp\Opgave04\UnitTests\bin\Debug\DataAccessInterfaces.dll
+D:\Odisee1516\Csharp\Opgave04\UnitTests\bin\Debug\DataEntities.dll
+D:\Odisee1516\Csharp\Opgave04\UnitTests\bin\Debug\LogicImplementation.dll
+D:\Odisee1516\Csharp\Opgave04\UnitTests\bin\Debug\LogicInterfaces.dll
+D:\Odisee1516\Csharp\Opgave04\UnitTests\bin\Debug\ConsoleUI.pdb
+D:\Odisee1516\Csharp\Opgave04\UnitTests\bin\Debug\DataAccessImplementation.pdb
+D:\Odisee1516\Csharp\Opgave04\UnitTests\bin\Debug\DataAccessInterfaces.pdb
+D:\Odisee1516\Csharp\Opgave04\UnitTests\bin\Debug\DataEntities.pdb
+D:\Odisee1516\Csharp\Opgave04\UnitTests\bin\Debug\LogicImplementation.pdb
+D:\Odisee1516\Csharp\Opgave04\UnitTests\bin\Debug\LogicInterfaces.pdb
+D:\Odisee1516\Csharp\Opgave04\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+D:\Odisee1516\Csharp\Opgave04\UnitTests\obj\Debug\GameRankingTests.dll
+D:\Odisee1516\Csharp\Opgave04\UnitTests\obj\Debug\GameRankingTests.pdb
+C:\Users\Anthony\Desktop\Opgave04\UnitTests\bin\Debug\GameRankingTests.dll
+C:\Users\Anthony\Desktop\Opgave04\UnitTests\bin\Debug\GameRankingTests.pdb
+C:\Users\Anthony\Desktop\Opgave04\UnitTests\bin\Debug\ConsoleUI.exe
+C:\Users\Anthony\Desktop\Opgave04\UnitTests\bin\Debug\DataAccessImplementation.dll
+C:\Users\Anthony\Desktop\Opgave04\UnitTests\bin\Debug\DataAccessInterfaces.dll
+C:\Users\Anthony\Desktop\Opgave04\UnitTests\bin\Debug\DataEntities.dll
+C:\Users\Anthony\Desktop\Opgave04\UnitTests\bin\Debug\LogicImplementation.dll
+C:\Users\Anthony\Desktop\Opgave04\UnitTests\bin\Debug\LogicInterfaces.dll
+C:\Users\Anthony\Desktop\Opgave04\UnitTests\bin\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\Opgave04\UnitTests\bin\Debug\DataAccessImplementation.pdb
+C:\Users\Anthony\Desktop\Opgave04\UnitTests\bin\Debug\DataAccessInterfaces.pdb
+C:\Users\Anthony\Desktop\Opgave04\UnitTests\bin\Debug\DataEntities.pdb
+C:\Users\Anthony\Desktop\Opgave04\UnitTests\bin\Debug\LogicImplementation.pdb
+C:\Users\Anthony\Desktop\Opgave04\UnitTests\bin\Debug\LogicInterfaces.pdb
+C:\Users\Anthony\Desktop\Opgave04\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Anthony\Desktop\Opgave04\UnitTests\obj\Debug\GameRankingTests.dll
+C:\Users\Anthony\Desktop\Opgave04\UnitTests\obj\Debug\GameRankingTests.pdb

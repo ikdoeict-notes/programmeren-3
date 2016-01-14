@@ -1,0 +1,15 @@
+D:\Odisee1516\Csharp\E-sport Ranking\DataEntities\bin\Debug\DataEntities.dll
+D:\Odisee1516\Csharp\E-sport Ranking\DataEntities\bin\Debug\DataEntities.pdb
+D:\Odisee1516\Csharp\E-sport Ranking\DataEntities\obj\Debug\DataEntities.dll
+D:\Odisee1516\Csharp\E-sport Ranking\DataEntities\obj\Debug\DataEntities.pdb
+D:\Odisee1516\Csharp\E-sport Ranking\DataEntities\obj\Debug\DataEntities.csprojResolveAssemblyReference.cache
+D:\Odisee1516\Csharp\Opgave04\DataEntities\bin\Debug\DataEntities.dll
+D:\Odisee1516\Csharp\Opgave04\DataEntities\bin\Debug\DataEntities.pdb
+D:\Odisee1516\Csharp\Opgave04\DataEntities\obj\Debug\DataEntities.dll
+D:\Odisee1516\Csharp\Opgave04\DataEntities\obj\Debug\DataEntities.pdb
+C:\Users\Anthony\Desktop\Opgave04\DataEntities\bin\Debug\DataEntities.dll
+C:\Users\Anthony\Desktop\Opgave04\DataEntities\bin\Debug\DataEntities.pdb
+C:\Users\Anthony\Desktop\Opgave04\DataEntities\obj\Debug\DataEntities.dll
+C:\Users\Anthony\Desktop\Opgave04\DataEntities\obj\Debug\DataEntities.pdb
+C:\Users\Anthony\Desktop\Opgave04\DataEntities\obj\Debug\DataEntities.csprojResolveAssemblyReference.cache
+D:\Odisee1516\Csharp\Opgave04\DataEntities\obj\Debug\DataEntities.csprojResolveAssemblyReference.cache
